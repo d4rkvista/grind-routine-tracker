@@ -1,0 +1,16 @@
+{
+  "name": "grind-routine-tracker",
+  "version": "1.0.0",
+  "description": "Gamified Obsidian routine tracker (Templater daily notes, streaks, XP, stats)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "moment": "^2.31.0"
+  }
+}
